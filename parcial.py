@@ -1,10 +1,4 @@
 
-import customtkinter
-app = customtkinter.CTk()
-app.title("Particular")
-app.geometry("500x500")
-app.mainloop() # Esto va si o si, para incializar la ventana.
-
 
 
 
